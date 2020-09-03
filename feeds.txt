@@ -1,0 +1,4 @@
+http://rss.cnn.com/rss/cnn_topstories.rss
+http://rss.cnn.com/rss/cnn_tech.rss
+http://feeds.bbci.co.uk/news/technology/rss.xml
+https://krebsonsecurity.com/feed/
